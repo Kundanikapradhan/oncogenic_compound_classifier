@@ -1,4 +1,4 @@
-# ONCOGENIC COMPOUNDS CLASSIFER USING FCNN AND OCR
+# ONCOGENIC COMPOUNDS CLASSIFER USING DL AND OCR
 
 This project focuses on identifying cancer-causing ingredients in consumer products using a Fully Connected Neural Network (FCNN). It leverages Optical Character Recognition (OCR) technology to extract ingredient lists directly from product labels.
 
