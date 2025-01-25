@@ -1,6 +1,6 @@
-# ONCOGENIC COMPOUNDS CLASSIFER USING NLP AND OCR
+# ONCOGENIC COMPOUNDS CLASSIFER USING ChemBertA AND OCR
 
-This project focuses on identifying cancer-causing ingredients in consumer products using (NLP). It leverages Optical Character Recognition (OCR) technology to extract ingredient lists directly from product labels.
+This project focuses on identifying cancer-causing ingredients in consumer products using ChemBertA. It leverages Optical Character Recognition (OCR) technology to extract ingredient lists directly from product labels.
 
 # Objectives:
 * Use OCR technology to capture and digitize ingredient information from product packaging.
